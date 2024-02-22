@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <menuitem id="electricity_menu_root" name="Electricity" web_icon="electricity,static/description/icon.png">
+        <menuitem id="electricity_menu_main" name="Bill">
+            <menuitem id="electricity_menu_action" action="electricity_property_action" />
+        </menuitem>
+    </menuitem>
+</odoo>
